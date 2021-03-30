@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Full-Stack Development 
 - 💞️ I’m looking to collaborate on open-source projects and hackathon projects
-- 📫 How to reach me: Connect with me on LinkedIn at https://www.linkedin.com/in/jonathan-h-dieu/
+- 📫 Connect with me on LinkedIn at https://www.linkedin.com/in/jonathan-h-dieu/
 
 <!---
 jonathanhuydieu/jonathanhuydieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
