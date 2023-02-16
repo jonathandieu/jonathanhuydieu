@@ -8,6 +8,7 @@
 <!-- [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanhuydieu@gmail.com) -->
 
 <!-- ![Jonathan's GitHub overview](https://github.com/jonathanhuydieu/jonathanhuydieu/blob/main/generated/overview.svg) -->
+I like to code. Details below.
 
 🕺 About Me 🕺
 ==================================
@@ -18,7 +19,8 @@
 - 🤝 I’m looking to collaborate on open-source projects and hackathon projects
 - 📫 Connect with me on LinkedIn at https://www.linkedin.com/in/jonathan-h-dieu/
 
-I like to code. Details below.
+
+
 💻 Technological Proficiencies 💻
 ==================================
 ## Full-Stack
