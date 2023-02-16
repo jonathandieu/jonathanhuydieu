@@ -8,7 +8,8 @@
 <!-- [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanhuydieu@gmail.com) -->
 
 <!-- ![Jonathan's GitHub overview](https://github.com/jonathanhuydieu/jonathanhuydieu/blob/main/generated/overview.svg) -->
-I like to code. Details below. [As long as you're already stalking me- feel free to check out my site!](https://jon-dieu.netlify.app)
+I like to code. Details below. 
+([Seeing as you're already stalking me- you might as well check out my site!](https://jon-dieu.netlify.app))
 
 🕺 About Me 🕺
 ==================================
