@@ -1,6 +1,6 @@
 # Howdy! 👋 My name is Jon. I like coffee.☕
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Dieu+or+Dieu+not;There+is+no+try.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Dieu+or+Dieu+not...;There+is+no+try.)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://drive.google.com/file/d/1ZunjaIPWC0z8RZWcVGrG661OvS6HhOx3/view?usp=sharing)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-h-dieu/)
